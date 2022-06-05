@@ -27,8 +27,6 @@
   },
   "homepage": "https://github.com/octoooooo/open-blogs#readme",
   "devDependencies": {
-    "@babel/plugin-transform-modules-commonjs": "^7.18.2",
-    "@babel/preset-react": "^7.17.12",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "autoprefixer": "^10.4.7",
